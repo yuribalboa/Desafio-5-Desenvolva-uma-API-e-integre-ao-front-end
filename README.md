@@ -40,35 +40,36 @@ Este projeto é um sistema de **biblioteca online**, onde usuários podem **cada
 ## 🔧 Como Rodar o Projeto  
 
 ### ▶️ Rodando o Backend (API)  
-1. Acesse a pasta do backend:  
+Acesse a pasta do backend:  
    ```
    cd backend
+```
+
 Instale as dependências:
-bash
-Copiar
-Editar
+```
 npm install
+```
 Inicie o servidor:
-bash
-Copiar
-Editar
+```
 node server.js
+```
+
 📌 O backend rodará em: http://localhost:3000
 
-▶️ Rodando o Frontend
+### ▶️ Rodando o Frontend
 Acesse a pasta do frontend:
-bash
-Copiar
-Editar
+```
 cd frontend
+```
+
 Instale as dependências:
-bash
-Copiar
-Editar
+```
 npm install
+```
+
 Inicie o frontend:
-bash
-Copiar
-Editar
+```
 npm start
+```
+
 📌 O frontend rodará em: http://localhost:5173 (ou outra porta disponível).
