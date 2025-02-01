@@ -21,7 +21,7 @@ Este projeto é um sistema de **biblioteca online**, onde usuários podem **cada
 
 ## 🏗️ Estrutura do Projeto  
 
-📦 biblioteca-online
+```📦 biblioteca-online
 │── 📂 backend
 │   ├── 📄 server.js (configuração do servidor Express)
 │   ├── 📄 database.js (configuração do SQLite)
@@ -34,7 +34,7 @@ Este projeto é um sistema de **biblioteca online**, onde usuários podem **cada
    │   ├── 📂 components (componentes reutilizáveis)
    │
    └── 📄 README.md (documentação)
-
+```
 ---
 
 ## 🔧 Como Rodar o Projeto  
