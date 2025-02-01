@@ -23,15 +23,15 @@ Este projeto é um sistema de **biblioteca online**, onde usuários podem **cada
 
 📦 biblioteca-online
 │── 📂 backend
-│ ├── 📄 server.js (configuração do servidor Express)
-│ ├── 📄 database.js (configuração do SQLite)
-│ ├── 📂 routes (rotas da API)
-│ └── 📂 models (esquema dos dados)
+   │ ├── 📄 server.js (configuração do servidor Express)
+   │ ├── 📄 database.js (configuração do SQLite)
+   │ ├── 📂 routes (rotas da API)
+   │ └── 📂 models (esquema dos dados)
 │
 │── 📂 frontend
-│ ├── 📄 App.js (componente principal)
-│ ├── 📂 services (requisições para a API)
-│ ├── 📂 components (componentes reutilizáveis)
+   │ ├── 📄 App.js (componente principal)
+   │ ├── 📂 services (requisições para a API)
+   │ ├── 📂 components (componentes reutilizáveis)
 │
 └── 📄 README.md (documentação)
 
